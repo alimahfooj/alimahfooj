@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!-# 💫 About Me:
+💫 About Me:
 I love creating beautiful, simple, and user-friendly web designs.  <br>Right now I’m focused on improving my skills, learning modern tools, and building awesome projects 🚀
 
 
